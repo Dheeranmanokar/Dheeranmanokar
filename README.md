@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dheeranmanokar
+- 👋 Hi, I’m Manokar
 - 👀 I’m interested in Problem solving
 - 🌱 I’m currently learning computer science
 - 📫 you can reach me by mailid manokarselvarajsv@gmail.com
